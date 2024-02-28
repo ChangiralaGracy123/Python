@@ -1,26 +1,24 @@
-# Python
-Class project:
+🖥️ Programming Exercises 📝
+Exercises Completed with Instructor
+Personal Information Display and Car MPG Calculator:
+File: Week 1 Lab.py
+Description: This program displays personal information such as name, birth city, favorite sports team, and undergraduate major. Additionally, it calculates a car's miles per gallon (MPG) based on miles driven and gallons of gas used, and displays the result.
 
-Question:
-1) Write a program that displays the following information:
-Your name
-The city where you were born
-Your favorite sports team
-Your undergraduate major
-2) A car's miles per gallon (MPG) can be calculated with the following formula:
-MPG = Miles driven ÷ Gallons of gas used
-Write a program that asks the user for the number of miles driven and the gallons of gas used. It should calculate the car's MPG and display the result.
-Show the instructor your work.
-Note: To format floating point output with a dollar sign and commas, to two decimal places, use the String class's format() method like so:
-print('The MPG is ${:,.2f}'.format(mpg))
+Independent Exercises
+Personalized Greeting:
+File: Hello Name.py
+Description: This program prompts the user for their name and then greets them by name.
+Restaurant Bill Calculator:
+File: Meal Purchased.py
+Description: This program calculates the total amount of a meal purchased at a restaurant, including a 20% tip and 5% meal tax.
+Temperature Converter:
+File: Fahrenheit temperatures.py
+Description: This program converts Fahrenheit temperatures to Celsius.
 
-Home Project:
-Question:
-Working on your own, complete the following programming exercises. Please be sure to review the  Programming Guidelines and Scoring Programming Guidelines and Scoring - Alternative Formats document before starting work on the assignment.
-1) Write a program that prompts for the user's name and then greets the user by name. For example,
-What's your name? Jim
-Hello, Jim!
-2) Write a program that calculates the total amount of a meal purchased at a restaurant. The program should ask the user to enter the charge for the food and then calculate the amount of an 20% tip and 5% meal tax. Display each of these amounts and the total.
-3) Write a program that converts Fahrenheit temperatures to Celsius. The formula is given below.
-C = (F - 32) × 5⁄9
-The program should prompt the user to enter a temperature in Fahrenheit and then display the temperature converted to Celsius.
+🏃‍♂️ How to Run
+Make sure you have Python installed on your system.
+Clone this repository to your local machine.
+Navigate to the directory containing the desired Python file.
+Run the Python file using the command python filename.py.
+Follow the prompts or input required information as instructed by each program.
+Feel free to explore the code and provide any feedback or improvements! 🚀
