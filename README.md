@@ -15,6 +15,7 @@ Note: To format floating point output with a dollar sign and commas, to two deci
 print('The MPG is ${:,.2f}'.format(mpg))
 
 Home Project:
+Question:
 Working on your own, complete the following programming exercises. Please be sure to review the  Programming Guidelines and Scoring Programming Guidelines and Scoring - Alternative Formats document before starting work on the assignment.
 1) Write a program that prompts for the user's name and then greets the user by name. For example,
 What's your name? Jim
