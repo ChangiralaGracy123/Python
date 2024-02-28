@@ -13,3 +13,13 @@ Write a program that asks the user for the number of miles driven and the gallon
 Show the instructor your work.
 Note: To format floating point output with a dollar sign and commas, to two decimal places, use the String class's format() method like so:
 print('The MPG is ${:,.2f}'.format(mpg))
+
+Home Project:
+Working on your own, complete the following programming exercises. Please be sure to review the  Programming Guidelines and Scoring Programming Guidelines and Scoring - Alternative Formats document before starting work on the assignment.
+1) Write a program that prompts for the user's name and then greets the user by name. For example,
+What's your name? Jim
+Hello, Jim!
+2) Write a program that calculates the total amount of a meal purchased at a restaurant. The program should ask the user to enter the charge for the food and then calculate the amount of an 20% tip and 5% meal tax. Display each of these amounts and the total.
+3) Write a program that converts Fahrenheit temperatures to Celsius. The formula is given below.
+C = (F - 32) × 5⁄9
+The program should prompt the user to enter a temperature in Fahrenheit and then display the temperature converted to Celsius.
